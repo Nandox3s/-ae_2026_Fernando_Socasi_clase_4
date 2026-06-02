@@ -120,5 +120,5 @@ La coleccion se encuentra en:
 
 ## Entregables
 
-- Repositorio GitHub: agrega aqui tu enlace cuando publiques el proyecto.
+- Repositorio GitHub: https://github.com/Nandox3s/-ae_2026_Fernando_Socasi_clase_4.git.
 - Coleccion Postman: incluida en la carpeta `postman`.
